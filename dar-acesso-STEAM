@@ -1,0 +1,6 @@
+dar acesso a pastas do sistema ao STEAM
+
+acesse o modo root
+
+insira flatpak override com.valvesoftware.Steam --filesystem=/mnt
+
